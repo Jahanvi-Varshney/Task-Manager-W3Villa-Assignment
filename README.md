@@ -1,9 +1,9 @@
 # Task-Manager-W3Villa-Assignment
 
-#Project Title 
+#Project Title:
  Task Manager MERN stack Web Application 
 
-Project Description
+Project Description:
 Task Manager Web Application allows user to create , view and update and delete tasks.The application consists of frontend , backend , database and API components .
 User should be able to register , login and manage their tasks effectively.
 
@@ -18,24 +18,24 @@ Backend Development:
 3. Created API endpoints to handle user registration, login, and task management operations (CRUD - Create, Read, Update, Delete).
 4. Proper validation and error handling for API requests
 
-Setup Instructions 
+Setup Instructions :
 
-1.Clone the repository to your local machine using the following command
+1.Clone the repository to your local machine using the following command:
    git clone <repository-url>
 
-2.Navigate to the project directory using the following command
+2.Navigate to the project directory using the following command:
    cd mern-task-manager
 
-3.Install Dependencies
+3.Install Dependencies:
    npm install
    Navigate to the client directory and install client dependencies:
    cd client
    npm install
 
-4. Set Environment Variables    
+4. Set Environment Variables    :
    MONGODB_URI=<your-mongodb-url>
 
-5. Run the Development Server
+5. Run the Development Server:
    npm run dev
 
 6. Access the Application
