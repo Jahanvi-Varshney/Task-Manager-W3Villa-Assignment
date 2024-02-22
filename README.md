@@ -33,10 +33,10 @@ Setup Instructions :
     npm install
 
 4. Set Environment Variables    :
-    MONGODB_URI=<your-mongodb-url>
+    MONGODB_URI="<your-mongodb-url>"
 
 5. Run the Development Server:
-    npm run dev
+    npm start
 
 6. Access the Application
     Once the server is running, you can access the application at http://localhost:3000 in your web browser.
